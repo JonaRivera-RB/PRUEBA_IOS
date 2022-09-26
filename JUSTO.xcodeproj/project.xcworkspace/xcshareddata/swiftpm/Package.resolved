@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "apijr_network",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JonaRivera-RB/APIJR_NETWORK",
+      "state" : {
+        "branch" : "main",
+        "revision" : "872610d4adfcb799f38d962fd85a265e2cb5df3d"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "3c7c949637cecb4eef79cd543309a2d5b261e46f"
+      }
+    }
+  ],
+  "version" : 2
+}
